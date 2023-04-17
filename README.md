@@ -13,7 +13,7 @@
 <!--     :house_with_garden: Based in India 🇮🇳<br> -->
     :school: COE Student from Thapar institute of engineering and technology [2025]<br>
     :email:	eishkaransingh@gmail.com <br>
-    :pencil: CV: <a href="https://drive.google.com/file/d/1PAVV8o_-9Pk_p_3abOSQcGnNkTVsG9gG/view?usp=sharing">View Resume</a> <br>
+    :pencil: CV: <a href="https://drive.google.com/file/d/1sKu105gxr_oHNQwkb-XvJE332K6NzBGr/view?usp=sharing">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/eishkaran-singh-336585209">LinkedIn Profile</a> <br>
  📓 Kaggle: <a href="https://www.kaggle.com/eishkaran">Kaggle Profile</a> <br>
 <!--     :bird: Twitter:  <a href="https://twitter.com/tanav2202/">Twitter</a> <br> -->
