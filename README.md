@@ -10,7 +10,7 @@
 - 📊 Data Science Enthusiast
 - :school: COE Student from Thapar Institute of Engineering and Technology [2025]
 - :email: eishkaransingh@gmail.com
-- :pencil: CV: [View Resume](https://drive.google.com/file/d/1sKu105gxr_oHNQwkb-XvJE332K6NzBGr/view?usp=sharing)
+- :pencil: CV: [View Resume](https://github.com/EISHKARAN/Resume/blob/main/Resume.pdf)
 - :briefcase: LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eishkaran-singh-336585209)
 - 📓 Kaggle: [Kaggle Profile](https://www.kaggle.com/eishkaran)
 - 📱 Portfolio: [Click to view](https://eishkaran.github.io/PersonalPortfolio/index.html)
