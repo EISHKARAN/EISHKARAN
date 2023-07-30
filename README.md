@@ -1,29 +1,84 @@
-<div align="Left">
-  <h2>Hi There</h2>
-  <img src="https://c.tenor.com/mw0Zuc8nL50AAAAC/garfield-waving.gif" height="200">
-</div>
+<h1 align="center">
+Hi, I'm Eishkaran Singh!
+	<a href="https://github.com/EISHKARAN" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/EISHKARAN">
+		<img src="https://komarev.com/ghpvc/?username=EISHKARAN&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/EISHKARAN?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/EISHKARAN">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things" alt="Typing Animation">
+	</a>
+</p>
+<hr>
+<pre>
+💻 I am a Machine Learning & Deep Learning Developer
+📚 Currently doing B-Tech in Computer Engineering from TIET and BS from IITM
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌟 Main languages: Python
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1h0TDXlscdy55H08Pnw526pvMDijcRxBB/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
 
-## About Me
-- 👨‍💻 20 yo
-- :coffee: Coffee Lover
-- 💻 Mac User
-- 📊 Data Science Enthusiast
-- :school: COE Student from Thapar Institute of Engineering and Technology [2025]
-- :email: eishkaransingh@gmail.com
-- :pencil: CV: [View Resume](https://github.com/EISHKARAN/Resume/blob/main/Resume.pdf)
-- :briefcase: LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eishkaran-singh-336585209)
-- 📓 Kaggle: [Kaggle Profile](https://www.kaggle.com/eishkaran)
-- 📱 Portfolio: [Click to view](https://eishkaran.github.io/PersonalPortfolio/index.html)
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:eishkaransingh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/eishkaran-singh/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/EISHKARAN"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.kaggle.com/eishkaran"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+<!--     <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
+    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### 👨🏽‍💻 Workspace
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+</p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
 
-<details>
-  <summary>GitHub Statistics (click)</summary>
+
+##  <summary>GitHub Stats</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eishkaran&show_icons=true&locale=en&layout=compact&theme=radical" alt="eishkaran">
   </p>
-</details>
 
-<p align="center">
-  <img src="https://www.localguidesconnect.com/t5/image/serverpage/image-id/47586i9F1B35D34B8095C8/image-size/large/strip-exif-data/true?v=v2&px=999" alt="eishkaran">
-</p>
+------
+
+[EISHKARAN](https://github.com/EISHKARAN)
