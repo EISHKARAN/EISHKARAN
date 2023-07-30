@@ -25,7 +25,6 @@ Hi, I'm Eishkaran Singh!
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌟 Main languages: Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1h0TDXlscdy55H08Pnw526pvMDijcRxBB/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
