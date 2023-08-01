@@ -71,13 +71,5 @@ Hi, I'm Eishkaran Singh!
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
-
-
-##  <summary>GitHub Stats</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eishkaran&show_icons=true&locale=en&layout=compact&theme=radical" alt="eishkaran">
-  </p>
-
 ------
-
 [EISHKARAN](https://github.com/EISHKARAN)
