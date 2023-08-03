@@ -14,9 +14,7 @@ Hi, I'm Eishkaran Singh!
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/EISHKARAN">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things" alt="Typing Animation">
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Budding+Data+Scientist%2C+TIET25%2C+IITM;DS%2CAI%2CML%2FDL+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 <hr>
 <pre>
