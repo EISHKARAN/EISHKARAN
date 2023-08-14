@@ -65,7 +65,7 @@ Hi, I'm Eishkaran Singh!
 ### 👨🏽‍💻 Workspace
 
 <p>
-    <a href="https://github.com/Eishkaran"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/Eishkaran"><img alt="Macbook Air" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue)
