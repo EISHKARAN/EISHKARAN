@@ -8,7 +8,7 @@ Hi, I'm Eishkaran Singh!
 	<a href="https://github.com/EISHKARAN">
 		<img src="https://komarev.com/ghpvc/?username=EISHKARAN&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/EISHKARAN">
 		<img src="https://img.shields.io/github/followers/EISHKARAN?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
